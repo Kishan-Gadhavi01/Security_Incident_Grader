@@ -1,16 +1,17 @@
 <!-- Tech Badges -->
 
+
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.9%252B-blue" />
-<img src="https://img.shields.io/badge/Pandas-Data%20Processing-%23150458?style=flat" />
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-%23013243?style=flat" />
-<img src="https://img.shields.io/badge/Scikit--Learn-ML%20Tools-%23f7931e?style=flat" />
-<img src="https://img.shields.io/badge/XGBoost-GPU%20Accelerated-%23eb5e28?style=flat" />
-<img src="https://img.shields.io/badge/Streamlit-Web%20App-%23ff4b4b?style=flat" />
-<img src="https://img.shields.io/badge/Jupyter-Notebook-%23f37626?style=flat" />
-<img src="https://img.shields.io/badge/Kaggle-Dataset-%2320beff?style=flat" />
-<img src="https://img.shields.io/badge/Joblib-Model%20Artifacts-%236baf92?style=flat" />
+  <img src="https://img.shields.io/badge/Python-3.10-blue" />
+  <img src="https://img.shields.io/badge/React-18-61dafb" />
+  <img src="https://img.shields.io/badge/PyTorch-2.1-ee4c2c" />
+  <img src="https://img.shields.io/badge/CUDA-12.1-76b900" />
+  <img src="https://img.shields.io/badge/MMCV-2.1.0-orange" />
+  <img src="https://img.shields.io/badge/MMPose-Live%203D%20Pose%20Estimation-purple" />
+  <img src="https://img.shields.io/badge/WebSockets-Real--time-green" />
 </p>
+
+---
 
 # 🛡️ Incident Grade Prediction Pipeline  
 A complete end-to-end machine learning project for **Security Incident Grade Classification** using:

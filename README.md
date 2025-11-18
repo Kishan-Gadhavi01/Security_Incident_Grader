@@ -2,14 +2,14 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.9+-blue" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Tools-F7931E" />
-  <img src="https://img.shields.io/badge/XGBoost-GPU%20Accelerated-EB5E28" />
-  <img src="https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626" />
-  <img src="https://img.shields.io/badge/Kaggle-Dataset-20BEFF" />
-  <img src="https://img.shields.io/badge/Joblib-Model%20Artifacts-6BAF92" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-%23150458" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-%23013243" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Tools-%23F7931E" />
+  <img src="https://img.shields.io/badge/XGBoost-GPU%20Accelerated-%23EB5E28" />
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-%23FF4B4B" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-%23F37626" />
+  <img src="https://img.shields.io/badge/Kaggle-Dataset-%2320BEFF" />
+  <img src="https://img.shields.io/badge/Joblib-Model%20Artifacts-%236BAF92" />
 </p>
 
 

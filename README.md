@@ -1,3 +1,28 @@
+<!-- Tech Badges for Visual Impact -->
+<p align="center">
+  <!-- Project -->
+  <img src="https://img.shields.io/badge/Project-Incident%20Grade%20Prediction-blue?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=check" />
+
+  <!-- Python & Tools -->
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1.5+-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-1.23+-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-1.2+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-GPU%20Accelerated-EB5E28?style=for-the-badge" />
+
+  <!-- App -->
+  <img src="https://img.shields.io/badge/Streamlit-App%20Available-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notebook-model.ipynb-4584b6?style=for-the-badge&logo=jupyter" />
+
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+
+  <!-- License (optional) -->
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
+
+
 # 🛡️ Incident Grade Prediction Pipeline  
 A complete end-to-end machine learning project for **Security Incident Grade Classification** using:
 

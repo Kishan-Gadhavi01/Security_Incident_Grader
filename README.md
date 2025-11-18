@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Joblib-Model%20Artifacts-%236baf92?style=flat" />
 </p>
 
-
 # 🛡️ Incident Grade Prediction Pipeline  
 A complete end-to-end machine learning project for **Security Incident Grade Classification** using:
 

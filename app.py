@@ -18,10 +18,10 @@ OHE_COLS = [
     'Hour', 'DayOfWeek', 'Month', 'IsBusinessHours', 'Category', 
     'OSFamily', 'OSVersion', 'EntityType', 'EvidenceRole'
 ]
-TRAINING_COLS_FILE = 'training_columns.joblib'
-MODEL_FILE = 'xgboost_incident_grade_model.joblib'
-FREQ_MAPS_FILE = 'frequency_maps.joblib'
-LE_FILE = 'target_label_encoder.joblib'
+TRAINING_COLS_FILE = 'joblibs/training_columns.joblib'
+MODEL_FILE = 'joblibs/xgboost_incident_grade_model.joblib'
+FREQ_MAPS_FILE = 'joblibs/frequency_maps.joblib'
+LE_FILE = 'joblibs/target_label_encoder.joblib'
 VAL_DATA_FILE = './data/GUIDE_Train.csv' 
 VAL_DATA_PARQUET = './data/GUIDE_Validate.parquet' 
 MAX_SAMPLE_SIZE = 20000 # Max number of rows to sample from the full data

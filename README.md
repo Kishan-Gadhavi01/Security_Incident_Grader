@@ -7,6 +7,13 @@ A complete end-to-end machine learning project for **Security Incident Grade Cla
 - **Streamlit Web App** for evaluations & interactive predictions  
 - **Reusable ML artifacts** stored via Joblib
 
+<div align="center">
+  <img src="./img/1.png" width="75%" style="border-radius: 8px;" />
+</div>
+<div align="center">
+  <img src="./img/2.png" width="75%" style="border-radius: 8px;" />
+</div
+
 All major work is contained in a single notebook:  
 📘 **`model.ipynb`**
 

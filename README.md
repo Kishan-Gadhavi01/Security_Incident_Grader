@@ -1,16 +1,17 @@
 <!-- Tech Badges -->
 
-
+---
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.10-blue" />
-  <img src="https://img.shields.io/badge/React-18-61dafb" />
-  <img src="https://img.shields.io/badge/PyTorch-2.1-ee4c2c" />
-  <img src="https://img.shields.io/badge/CUDA-12.1-76b900" />
-  <img src="https://img.shields.io/badge/MMCV-2.1.0-orange" />
-  <img src="https://img.shields.io/badge/MMPose-Live%203D%20Pose%20Estimation-purple" />
-  <img src="https://img.shields.io/badge/WebSockets-Real--time-green" />
+  <img src="https://img.shields.io/badge/Python-3.9+-blue" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Tools-F7931E" />
+  <img src="https://img.shields.io/badge/XGBoost-GPU%20Accelerated-EB5E28" />
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626" />
+  <img src="https://img.shields.io/badge/Kaggle-Dataset-20BEFF" />
+  <img src="https://img.shields.io/badge/Joblib-Model%20Artifacts-6BAF92" />
 </p>
-
 ---
 
 # 🛡️ Incident Grade Prediction Pipeline  
